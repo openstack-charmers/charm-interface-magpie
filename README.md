@@ -1,3 +1,8 @@
+> **WARNING**: this repository is outdated and has moved to:
+>
+> * https://opendev.org/openstack/charm-interface-magpie
+> * https://github.com/openstack/charm-interface-magpie
+
 # Overview
 
 This interface layer handles the communication among Magpie peers.
